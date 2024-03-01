@@ -43,7 +43,7 @@
     display: block;
     width: 160px;
     height: 160%;
-    background: linear-gradient(90deg, transparent, rgb(19, 141, 255), rgb(134, 231, 255), rgb(19, 141, 255), #0d416b, transparent);
+    background: linear-gradient(90deg, transparent, rgb(19, 141, 255), rgb(134, 231, 255), rgb(134, 231, 255), rgb(19, 141, 255), transparent);
     animation: rotation_481 5000ms infinite linear;
   }
   
